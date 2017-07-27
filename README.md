@@ -10,3 +10,5 @@
 [Python extension packages ](http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy)
 
 [Jinja2 中文手册 2.8 documentation ](http://docs.pythontab.com/jinja/jinja2/)
+
+[其他在线手册](http://docs.pythontab.com/)
