@@ -6,3 +6,5 @@
 [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 
 [python 中文学习大本营](http://www.pythondoc.com/)
+
+[Python extension packages ](http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy)
