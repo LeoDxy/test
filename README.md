@@ -12,3 +12,5 @@
 [Jinja2 中文手册 2.8 documentation ](http://docs.pythontab.com/jinja/jinja2/)
 
 [其他在线手册](http://docs.pythontab.com/)
+
+[开源中国社区](https://www.oschina.net/)
