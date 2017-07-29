@@ -14,3 +14,5 @@
 [其他在线手册](http://docs.pythontab.com/)
 
 [开源中国社区](https://www.oschina.net/)
+
+[Tensorflow学习资源](http://blog.jobbole.com/110558/)
